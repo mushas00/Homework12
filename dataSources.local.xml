@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-231.8770.66">
+    <data-source name="@localhost" uuid="053751c7-2aaa-41e2-ba1b-3111be298667">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="books" uuid="8c4c7b70-c6bc-470f-b124-ff3ca192f5f6">
+      <database-info product="SQLite" version="3.40.1" jdbc-version="4.2" driver-name="SQLite JDBC" driver-version="3.40.1.0" dbms="SQLITE" exact-version="3.40.1" exact-driver-version="3.40">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-provider>no-auth</auth-provider>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="@" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
